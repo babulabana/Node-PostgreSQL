@@ -5,3 +5,5 @@ file 1git
 
 another marketing message section added to file one .
 vishal labana
+
+another fix message for pink mode
