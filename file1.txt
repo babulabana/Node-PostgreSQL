@@ -9,3 +9,6 @@ vishal labana
 another fix message for pink mode
 
 another fix message for purpulmode
+
+
+git revert command use
